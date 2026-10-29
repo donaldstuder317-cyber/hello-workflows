@@ -12,5 +12,7 @@ jobs:
       - name: Print a message
         run: echo "Hello, World from GitHub Actions!"
       - name: Print another message
-        run: echo "We are 2 legit 2 git!"  
+        run: echo "We are 2 legit 2 git!"
+      - name: Shout out to Dev Branch
+        run: echo "Hello, Dev Branch!"
       
